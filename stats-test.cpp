@@ -2,6 +2,7 @@
 
 #include "catch.hpp"
 #include "stats.h"
+#include "check_alert.h"
 
 #include <stdlib.h>
 #include <math.h>
